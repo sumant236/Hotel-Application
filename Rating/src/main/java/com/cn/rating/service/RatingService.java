@@ -1,4 +1,4 @@
-package com.example.rating.service;
+package com.cn.rating.service;
 
 import org.springframework.stereotype.Service;
 

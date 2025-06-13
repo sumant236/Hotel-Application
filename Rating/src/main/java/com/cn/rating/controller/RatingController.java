@@ -1,4 +1,4 @@
-package com.example.rating.controller;
+package com.cn.rating.controller;
 
 import com.cn.rating.service.RatingService;
 import org.springframework.beans.factory.annotation.Autowired;
