@@ -1,6 +1,6 @@
 package com.example.rating.controller;
 
-import com.cn.rating.service.RatingService;
+import com.example.rating.service.RatingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
